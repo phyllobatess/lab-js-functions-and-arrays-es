@@ -171,7 +171,7 @@ function uniquifyArray(arrayWordsUnique) {
 
 console.log(uniquifyArray(wordsUnique));
 
-// Iteration #6: Find elements
+// Iteration #6: Find elements.
 const wordsFind = [
   "machine",
   "subset",
